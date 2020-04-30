@@ -15,4 +15,4 @@ This shows a graph of America divided by states, showing the average number of d
 
 Here is an example of the output chart:
 
-![Geo Chart of America showing decline in COVID cases](coronavirus/daily-improvement-map/example-screenshot.png)
+![Geo Chart of America showing decline in COVID cases](/example-screenshot.png)
