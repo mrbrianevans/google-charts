@@ -5,7 +5,7 @@
  - Encodes to JSON and returns to JavaScript
  
  ## JavaScript
- - Makes asynchronous request to the PHP page
+ - Makes a synchronous request to the PHP page
  - Converts the JSON resonse into a Google DataTable
  - Sets the options for the chart
  - Draws the chart
